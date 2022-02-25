@@ -1,106 +1,82 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
-    "socialLinks":[
-        {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
-        },
-        {
-          "name":"github",
-          "url":"http://github.com/rbhatia46",
-          "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
-      ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
-    "education":[
-      {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
-    "work":[
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
-    "skillsDescription":"Your skills here",
-    "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
-      }
-    ],
-    "portfolio":[
-      {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
-  }
-  
-  export default resumeData
+  "imagebaseurl": "https://rbhatia46.github.io/",
+  "name": "Azamat Saiduly",
+  "role": "Front-end Developer",
+  "linkedinId": " 831456709",
+  "skypeid": "Your skypeid",
+  "roleDescription": "I like working in various parts of frontend development and like to learn about new technologies, read technical articles or simply play guitar in my free time.",
+  "socialLinks": [
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/azamat-saiduly-0b15531b2/",
+      "className": "fa fa-linkedin"
+    },
+    {
+      "name": "github",
+      "url": "http://github.com/azamat02",
+      "className": "fa fa-github"
+    },
+  ],
+  "aboutme": "I am currently a last year student at Astana IT University. I am a self taught Front-end Web Developer, currently diving deeper into my working sphere. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+  "address": "Kazakhstan, Nur-sultan",
+  "website": "",
+  "education": [
+    {
+      "UniversityName": "Astana IT University",
+      "specialization": "Software engineer",
+      "MonthOfPassing": "June",
+      "YearOfPassing": "2022",
+      "Achievements": "GPA 3.4+"
+    },
+  ],
+  "work": [
+    {
+      "CompanyName": "Mobile Market",
+      "specialization": "Front-end Developer",
+      "MonthOfLeaving": "June 2021 - Sep 2021",
+      "YearOfLeaving": "",
+      "Achievements": "Developing React JS and React Native based projects; Developing projects for foreign outsource companies."
+    },
+    {
+      "CompanyName": "Astana IT University",
+      "specialization": "Front-end Developer",
+      "MonthOfLeaving": "Sep 2021 - Present",
+      "YearOfLeaving": "",
+      "Achievements": "Development frontend part of internal university systems."
+    }
+  ],
+  "skillsDescription": "",
+  "skills": [
+    {
+      "skillname": "HTML / CSS / JavaScript"
+    },
+    {
+      "skillname": "Reactjs"
+    },
+    {
+      "skillname": "GoLang"
+    },
+    {
+      "skillname": "MySQL / PostgreSQL"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Book Shelf",
+      "description": "Online book shop",
+      "imgurl": "images/projects/book_shelf.png"
+    },
+  ],
+  "testimonials": [
+    {
+      "description": "This is a sample testimonial",
+      "name": "Some technical guy"
+    },
+    {
+      "description": "This is a sample testimonial",
+      "name": "Some technical guy"
+    }
+  ]
+}
+
+export default resumeData
